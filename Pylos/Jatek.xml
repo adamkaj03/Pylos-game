@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jatek>
+  <jatekos>ValodiJatekos</jatekos>
+  <jatekos>ValodiJatekos</jatekos>
+  <jatekos>feher</jatekos>
+  <tabla>
+    <tablaSzint szint="0">
+      <poziciok>
+        <pozicio oszlop="0" sor="0">
+          <golyo>feher</golyo>
+        </pozicio>
+        <pozicio oszlop="1" sor="0">
+          <golyo>fekete</golyo>
+        </pozicio>
+        <pozicio oszlop="2" sor="0">
+          <golyo>feher</golyo>
+        </pozicio>
+        <pozicio oszlop="3" sor="0">
+          <golyo>fekete</golyo>
+        </pozicio>
+        <pozicio oszlop="0" sor="1">
+          <golyo>null</golyo>
+        </pozicio>
+        <pozicio oszlop="1" sor="1">
+          <golyo>fekete</golyo>
+        </pozicio>
+        <pozicio oszlop="2" sor="1">
+          <golyo>feher</golyo>
+        </pozicio>
+        <pozicio oszlop="3" sor="1">
+          <golyo>feher</golyo>
+        </pozicio>
+        <pozicio oszlop="0" sor="2">
+          <golyo>null</golyo>
+        </pozicio>
+        <pozicio oszlop="1" sor="2">
+          <golyo>feher</golyo>
+        </pozicio>
+        <pozicio oszlop="2" sor="2">
+          <golyo>feher</golyo>
+        </pozicio>
+        <pozicio oszlop="3" sor="2">
+          <golyo>feher</golyo>
+        </pozicio>
+        <pozicio oszlop="0" sor="3">
+          <golyo>null</golyo>
+        </pozicio>
+        <pozicio oszlop="1" sor="3">
+          <golyo>null</golyo>
+        </pozicio>
+        <pozicio oszlop="2" sor="3">
+          <golyo>null</golyo>
+        </pozicio>
+        <pozicio oszlop="3" sor="3">
+          <golyo>null</golyo>
+        </pozicio>
+      </poziciok>
+    </tablaSzint>
+    <tablaSzint szint="1">
+      <poziciok>
+        <pozicio oszlop="0" sor="0">
+          <golyo>null</golyo>
+        </pozicio>
+        <pozicio oszlop="1" sor="0">
+          <golyo>feher</golyo>
+        </pozicio>
+        <pozicio oszlop="2" sor="0">
+          <golyo>feher</golyo>
+        </pozicio>
+        <pozicio oszlop="0" sor="1">
+          <golyo>null</golyo>
+        </pozicio>
+        <pozicio oszlop="1" sor="1">
+          <golyo>fekete</golyo>
+        </pozicio>
+        <pozicio oszlop="2" sor="1">
+          <golyo>fekete</golyo>
+        </pozicio>
+        <pozicio oszlop="0" sor="2">
+          <golyo>null</golyo>
+        </pozicio>
+        <pozicio oszlop="1" sor="2">
+          <golyo>null</golyo>
+        </pozicio>
+        <pozicio oszlop="2" sor="2">
+          <golyo>null</golyo>
+        </pozicio>
+      </poziciok>
+    </tablaSzint>
+    <tablaSzint szint="2">
+      <poziciok>
+        <pozicio oszlop="0" sor="0">
+          <golyo>null</golyo>
+        </pozicio>
+        <pozicio oszlop="1" sor="0">
+          <golyo>null</golyo>
+        </pozicio>
+        <pozicio oszlop="0" sor="1">
+          <golyo>null</golyo>
+        </pozicio>
+        <pozicio oszlop="1" sor="1">
+          <golyo>null</golyo>
+        </pozicio>
+      </poziciok>
+    </tablaSzint>
+    <tablaSzint szint="3">
+      <poziciok>
+        <pozicio oszlop="0" sor="0">
+          <golyo>null</golyo>
+        </pozicio>
+      </poziciok>
+    </tablaSzint>
+  </tabla>
+</jatek>
+
